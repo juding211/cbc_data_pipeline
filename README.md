@@ -50,17 +50,17 @@ Les deux sources utilisent des conventions de nommage différentes, ce qui m'a p
 
 ## Pipeline
 Kaggle API
-↓
+
 Collecte des données brutes (2 sources)
-↓
+
 Nettoyage (valeurs manquantes, doublons)
-↓
+
 Standardisation des noms de colonnes
-↓
+
 Chargement dans MySQL (4 tables normalisées)
-↓
+
 Requêtes KPI
-↓
+
 Visualisation Power BI (en cours)
 
 ---
