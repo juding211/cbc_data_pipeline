@@ -76,7 +76,7 @@ Visualisation Power BI (en cours)
 
 ## Schéma de base de données / Database Schema
 
-4 tables dans la base `horiba_cbc` :
+4 tables dans la base `cbc_pipeline` :
 
 - **data_a** — patients CBC généraux (500 lignes)
 - **patient** — informations patients MIMIC-III (100 lignes)
