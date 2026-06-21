@@ -1,23 +1,5 @@
 # CBC Data Pipeline
 
-## Pourquoi ce projet? / Why I built this?
-
-Je n'avais jamais vu de données d'analyses sanguines en dehors 
-de mes propres bilans médicaux. Pour le KPI, j'ai choisi l'anémie — 
-pas parce que j'y connaissais quelque chose, mais parce que c'était 
-la seule pathologie que je connaissais de nom. Le reste, c'était 
-beaucoup de recherches pour comprendre ce que WBC et MCV signifient vraiment.
-
-
-*I had never seen blood test data outside of my own medical checkups.
-
-When I had to pick a KPI, I went with anemia — not because I'm an 
-expert, but because it was the one condition I'd actually heard of. 
-Turns out it's also the only one you can directly confirm from CBC 
-values alone, so it worked out.
-
-The rest was a lot of googling what WBC and MCV actually mean.*
-
 ---
 
 ## Sources de données / Data Sources
